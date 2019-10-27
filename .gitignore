@@ -1,0 +1,11 @@
+.idea/
+__pycache__
+*.py[cod]
+*.pot
+*.egg
+*.egg-info/
+.env
+.venv
+.coverage
+reports/
+!logs/.gitkeep

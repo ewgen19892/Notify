@@ -1,0 +1,15 @@
+django
+djangorestframework
+djangorestframework_simplejwt
+django-filter
+celery[redis]
+factory_boy
+drf-yasg
+mysqlclient
+coverage
+flake8
+flake8-docstrings
+flake8-quotes
+isort
+pylint
+pylint-django==2.0.8
